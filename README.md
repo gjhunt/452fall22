@@ -14,7 +14,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 2|T 9-6 | normal statistics and exponential families |  C+B 5.2 (Thrm. 5.2.11 to end), 5.3 | --- | [notes](lns/lec2.pdf)| [vid](https://youtu.be/KQo2Y60s9qY)|  | 
 3|R 9-8 | sufficiency | C+B 6.1,6.2 (through Ex. 6.2.10) | [SP2](sp/sp2.pdf)| [notes](lns/lec3.pdf)| [vid](https://youtu.be/HVTvMwFLdGw)| [QP 2](qp/qp2.pdf) due Sept 15 | 
 4|T 9-13 | MOMs | C+B 6.2 (through Defn 6.2.16), 7.1, 7.2 (through Ex. 7.2.2) | --- | [notes](lns/lec4.pdf)| [vid](https://youtu.be/3EEC4EDKIho) | --- | 
-5|R 9-15 | MLEs | C+B 7.2.2 (through Ex. 7.2.13) | [SP3](sp/sp3.pdf) | [notes](lns/lec5.pdf)| [vid]()| [QP 3](qp/qp3.pdf) due Sept 22 | 
+5|R 9-15 | MLEs | C+B 7.2.2 (through Ex. 7.2.13) | [SP3](sp/sp3.pdf) | [notes](lns/lec5.pdf)| [vid](https://youtu.be/zn4yEPpNhFA)| [QP 3](qp/qp3.pdf) due Sept 22 | 
 6|T 9-20 | more MLEs | C+B 7.2.2 (through Ex. 7.2.13) | --- | [notes](lns/lec6.pdf) | [vid]() | --- |
 7|R 9-22 | evaluation | C+B 7.3.1 (through Ex. 7.3.4), 7.3.2 (through Defn 7.3.7)  | [SP4](sp/sp4.pdf) | [notes](lns/lec7.pdf)| [vid]()| [QP 4](qp/qp4.pdf) due Sept 29 | 
 8|T 9-27 | UMVUEs |  --- | --- | [notes](lns/lec8.pdf)| [vid](https://youtu.be/Lo3w4WUHfbg)| --- |
