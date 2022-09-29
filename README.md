@@ -18,7 +18,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 6|T 9-20 | more MLEs | C+B 7.2.2 (through Ex. 7.2.13) | --- | [notes](lns/lec6.pdf) | [vid](https://youtu.be/jEQC53wdiu0) | --- |
 7|R 9-22 | evaluation | C+B 7.3.1 (through Ex. 7.3.4), 7.3.2 (through Defn 7.3.7)  | [SP4](sp/sp4.pdf) | [notes](lns/lec7.pdf)| [vid](https://youtu.be/8zlmtnnX1kI)| [QP 4](qp/qp4.pdf) due Sept 29 | 
 8|T 9-27 | UMVUEs |  --- | --- | [notes](lns/lec8.pdf)| [vid](https://youtu.be/EEc_fi5qHLM)| --- |
-9|R 9-29 | CRLB | 7.3.2 (all) | [SP5](sp/sp5.pdf)| [notes](lns/lec9.pdf)| [vid]()| [QP 5](qp/qp5.pdf) due Oct 6 | 
+9|R 9-29 | CRLB | 7.3.2 (all) | [SP5](sp/sp5.pdf)| [notes](lns/lec9.pdf)| [vid](https://youtu.be/lL5xDnjfA1Y)| [QP 5](qp/qp5.pdf) due Oct 6 | 
 . |T 10-4 | **midterm 1 (lectures 1-7)**  |
 10|R 10-6 | iterated expectation and Rao-Blackwell | 7.3.3 (through Ex. 7.3.18) | [SP6](sp/sp6.pdf) | [notes](lns/lec10.pdf)| [vid]() | [QP 6](qp/qp6.pdf) due Oct 17 | 
 11|T 10-11 | Lehmann-Scheffe and inequalities | 7.3.3 (through Thrm 7.3.19) | --- | [notes](lns/lec11.pdf)| [vid]()| --- | 
