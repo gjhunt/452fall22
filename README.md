@@ -24,7 +24,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 11|T 10-11 | inequalities | 7.3.3 (through Thrm 7.3.19) | --- | [notes](lns/lec11.pdf)| [vid](https://youtu.be/1ypIi_vTNBk)| --- | 
 . |R 10-13 | fall break | 
 12 | T 10-18 | convergence | 5.5.1, 5.5.2 | [SP7](sp/sp7.pdf) | [notes](lns/lec12.pdf)| [vid](https://youtu.be/5AaPiNGnOag)| [QP7](qp/qp7.pdf) due Oct 25 | 
-13| R 10-20 | more convergence |  5.5 (through Thrm 5.5.13), Thrm 5.5.17 | --- | [notes](lns/lec13.pdf)| [vid]() | --- | 
+13| R 10-20 | more convergence |  5.5 (through Thrm 5.5.13), Thrm 5.5.17 | --- | [notes](lns/lec13.pdf)| [vid](https://youtu.be/CoxCPjiurDs) | --- | 
 14|T 10-25 | CLT | 5.5 (through Thrm 5.5.13), Thrm 5.5.17 | [SP8](sp/sp8.pdf) | [notes](lns/lec14.pdf)| [vid]() | [QP8](qp/qp8.pdf) due Nov 1 | 
 15|R 10-27 | delta method | Thrm 5.5.14 through Ex. 5.5.25  | --- | [notes](lns/lec15.pdf)| [vid]()| ---  | 
 16|T 11-1 | MLE Asymptotics | 5.5.4 (through Ex. 5.5.27) | [SP9](sp/sp9.pdf) | [notes](lns/lec16.pdf) | [vid]()| [QP9](qp/qp9.pdf) due Nov 10 | 
