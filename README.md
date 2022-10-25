@@ -25,14 +25,14 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 . |R 10-13 | fall break | 
 12 | T 10-18 | convergence | 5.5.1, 5.5.2 | [SP7](sp/sp7.pdf) | [notes](lns/lec12.pdf)| [vid](https://youtu.be/5AaPiNGnOag)| [QP7](qp/qp7.pdf) due Oct 25 | 
 13| R 10-20 | more convergence |  5.5 (through Thrm 5.5.13), Thrm 5.5.17 | --- | [notes](lns/lec13.pdf)| [vid](https://youtu.be/CoxCPjiurDs) | --- | 
-14|T 10-25 | CLT | 5.5 (through Thrm 5.5.13), Thrm 5.5.17 | [SP8](sp/sp8.pdf) | [notes](lns/lec14.pdf)| [vid]() | [QP8](qp/qp8.pdf) due Nov 1 | 
+14|T 10-25 | CLT | 5.5 (through Thrm 5.5.13), Thrm 5.5.17 | [SP8](sp/sp8.pdf) | [notes](lns/lec14.pdf)| [vid](https://youtu.be/ng4VnHvW5GI) | [QP8](qp/qp8.pdf) due Nov 1 | 
 15|R 10-27 | delta method | Thrm 5.5.14 through Ex. 5.5.25  | --- | [notes](lns/lec15.pdf)| [vid]()| ---  | 
-16|T 11-1 | MLE Asymptotics | 5.5.4 (through Ex. 5.5.27) | [SP9](sp/sp9.pdf) | [notes](lns/lec16.pdf) | [vid]()| [QP9](qp/qp9.pdf) due Nov 10 | 
-. |R 11-3 | **midterm 2 (lecture 8-14)** | 
-. | T 11-8 | Election Day (no classes) | 
-17|R 11-10 | LRT |  8.1, 8.3 (through Defn 8.3.6)  | --- | [notes](lns/lec17.pdf)| [vid]()| [QP10](qp/qp10.pdf) due Nov 17 | 
-18|T 11-15 | more LRT |  8.2.1 | [SP10](sp/sp10.pdf) | [notes](lns/lec18.pdf)| [vid]()| --- | 
-19|R 11-17 | Neyman-Pearson |  8.3 (through Ex 8.3.7), 8.3.2 (through Ex. 8.3.15)  | --- | [notes](lns/lec19.pdf)| [vid]() | [QP11](qp/qp11.pdf) due Nov 29 | 
+16|T 11-1 | MLE Asymptotics | 5.5.4 (through Ex. 5.5.27) | [SP9](sp/sp9.pdf) | [notes](lns/lec16.pdf) | [vid]()| [QP9](qp/qp9.pdf) due Nov 8 | 
+. |R 11-3 | LRT |  8.1, 8.3 (through Defn 8.3.6)  | --- | [notes](lns/lec17.pdf)| [vid]()|  | 
+. | T 11-8 | Election Day (no classes) | | | | | [QP10](qp/qp10.pdf) due Nov 15
+17|R 11-10 | **midterm 2** | | | | | |
+18|T 11-15 | more LRT |  8.2.1 | [SP10](sp/sp10.pdf) | [notes](lns/lec18.pdf)| [vid]()| [QP11](qp/qp11.pdf) due Nov 29 | 
+19|R 11-17 | Neyman-Pearson |  8.3 (through Ex 8.3.7), 8.3.2 (through Ex. 8.3.15)  | --- | [notes](lns/lec19.pdf)| [vid]() |  | 
 20|T 11-22 | Karlin-Rubin | 8.3.2 (through Thrm 8.3.17)  | --- | [notes](lns/lec20.pdf)| [vid]() | ---  | 
 . | R 11-24 | Thanksgiving | 
 21|T 11-29 | interval estimation |  8.3.4 (through Ex. 8.3.29), 9.1, 9.2.1 | [SP11](sp/sp11.pdf) | [notes](lns/lec21.pdf)| [vid]() | [QP12](qp/qp12.pdf) Due Dec 6 | 
