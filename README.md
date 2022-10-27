@@ -26,7 +26,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 12 | T 10-18 | convergence | 5.5.1, 5.5.2 | [SP7](sp/sp7.pdf) | [notes](lns/lec12.pdf)| [vid](https://youtu.be/5AaPiNGnOag)| [QP7](qp/qp7.pdf) due Oct 25 | 
 13| R 10-20 | more convergence |  5.5 (through Thrm 5.5.13), Thrm 5.5.17 | --- | [notes](lns/lec13.pdf)| [vid](https://youtu.be/CoxCPjiurDs) | --- | 
 14|T 10-25 | CLT | 5.5 (through Thrm 5.5.13), Thrm 5.5.17 | [SP8](sp/sp8.pdf) | [notes](lns/lec14.pdf)| [vid](https://youtu.be/ng4VnHvW5GI) | [QP8](qp/qp8.pdf) due Nov 1 | 
-15|R 10-27 | delta method | Thrm 5.5.14 through Ex. 5.5.25  | --- | [notes](lns/lec15.pdf)| [vid]()| ---  | 
+15|R 10-27 | delta method | Thrm 5.5.14 through Ex. 5.5.25  | --- | [notes](lns/lec15.pdf)| [vid](https://youtu.be/dPog92EgA2I)| ---  | 
 16|T 11-1 | MLE Asymptotics | 5.5.4 (through Ex. 5.5.27) | [SP9](sp/sp9.pdf) | [notes](lns/lec16.pdf) | [vid]()| [QP9](qp/qp9.pdf) due Nov 8 | 
 . |R 11-3 | LRT |  8.1, 8.3 (through Defn 8.3.6)  | --- | [notes](lns/lec17.pdf)| [vid]()|  | 
 . | T 11-8 | Election Day (no classes) | | | | | [QP10](qp/qp10.pdf) due Nov 15
