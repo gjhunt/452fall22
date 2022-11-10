@@ -29,7 +29,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 15|R 10-27 | delta method | Thrm 5.5.14 through Ex. 5.5.25  | --- | [notes](lns/lec15.pdf)| [vid](https://youtu.be/dPog92EgA2I)| ---  | 
 16|T 11-1 | hypothesis testing | 5.5.4 (through Ex. 5.5.27) | [SP9](sp/sp9.pdf) | [notes](lns/lec16.pdf) | [vid](https://youtu.be/GxJJucs3PnE)| [QP9](qp/qp9.pdf) due Nov 8 | 
 . |R 11-3 | power function |  8.1, 8.3 (through Defn 8.3.6)  | --- | [notes](lns/lec17.pdf)| [vid](https://youtu.be/tMGCQC4vqX4)|  | 
-. | T 11-8 | Election Day (no classes) | | | | | [QP10](qp/qp10.pdf) due Nov 15
+. | T 11-8 | Election Day (no classes) | | | | | [QP10](qp/qp10.pdf) due Nov 17
 17|R 11-10 | **midterm 2** | | | | | |
 18|T 11-15 | more LRT |  8.2.1 | [SP10](sp/sp10.pdf) | [notes](lns/lec18.pdf)| [vid]()| [QP11](qp/qp11.pdf) due Nov 29 | 
 19|R 11-17 | Neyman-Pearson |  8.3 (through Ex 8.3.7), 8.3.2 (through Ex. 8.3.15)  | --- | [notes](lns/lec19.pdf)| [vid]() |  | 
