@@ -31,8 +31,8 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 . |R 11-3 | power function |  8.1, 8.3 (through Defn 8.3.6)  | --- | [notes](lns/lec17.pdf)| [vid](https://youtu.be/tMGCQC4vqX4)|  | 
 . | T 11-8 | Election Day (no classes) | | | | | [QP10](qp/qp10.pdf) due Nov 17
 17|R 11-10 | **midterm 2** | | | | | |
-18|T 11-15 | more LRT |  8.2.1 | [SP10](sp/sp10.pdf) | [notes](lns/lec18.pdf)| [vid]()| [QP11](qp/qp11.pdf) due Nov 29 | 
-19|R 11-17 | Neyman-Pearson |  8.3 (through Ex 8.3.7), 8.3.2 (through Ex. 8.3.15)  | --- | [notes](lns/lec19.pdf)| [vid]() |  | 
+18|T 11-15 | LRT |  8.2.1 | [SP10](sp/sp10.pdf) | [notes](lns/lec18.pdf)| [vid](https://youtu.be/FxAgZZEA9CE)|  | 
+19|R 11-17 | Neyman-Pearson |  8.3 (through Ex 8.3.7), 8.3.2 (through Ex. 8.3.15)  | --- | [notes](lns/lec19.pdf)| [vid]() | [QP11](qp/qp11.pdf) due Nov 29 | 
 20|T 11-22 | Karlin-Rubin | 8.3.2 (through Thrm 8.3.17)  | --- | [notes](lns/lec20.pdf)| [vid]() | ---  | 
 . | R 11-24 | Thanksgiving | 
 21|T 11-29 | interval estimation |  8.3.4 (through Ex. 8.3.29), 9.1, 9.2.1 | [SP11](sp/sp11.pdf) | [notes](lns/lec21.pdf)| [vid]() | [QP12](qp/qp12.pdf) Due Dec 6 | 
