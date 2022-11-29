@@ -35,7 +35,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 19|R 11-17 | Neyman-Pearson |  8.3 (through Ex 8.3.7), 8.3.2 (through Ex. 8.3.15)  | --- | [notes](lns/lec19.pdf)| [vid](https://youtu.be/3wWVibqsQCY) | [QP11](qp/qp11.pdf) due Nov 29 | 
 20|T 11-22 | Karlin-Rubin | 8.3.2 (through Thrm 8.3.17)  | --- | [notes](lns/lec20.pdf)| [vid](https://youtu.be/650GEdFvfA8) | ---  | 
 . | R 11-24 | Thanksgiving | 
-21|T 11-29 | interval estimation |  8.3.4 (through Ex. 8.3.29), 9.1, 9.2.1 | [SP11](sp/sp11.pdf) | [notes](lns/lec21.pdf)| [vid]() | [QP12](qp/qp12.pdf) Due Dec 6 | 
-22|R 12-1 | test inversion and pivoting | 7.2.3 | --- |[notes](lns/lec22.pdf)| [vid]() | --- | 
+21|T 11-29 | interval estimation |  8.3.4 (through Ex. 8.3.29), 9.1, 9.2.1 |  | [notes](lns/lec21.pdf)| [vid](https://youtu.be/v3Ke_yfuw2g) |  | 
+22|R 12-1 | pivoting | 7.2.3 | [SP11](sp/sp11.pdf) |[notes](lns/lec22.pdf)| [vid]() | [QP12](qp/qp12.pdf) Due Dec 8 | 
 23|T 12-6 | p-values and bayesian inference  |  7.2.3 | --- | [notes](lns/lec23.pdf)| [vid]() | --- | 
 
