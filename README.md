@@ -37,5 +37,5 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 . | R 11-24 | Thanksgiving | 
 21|T 11-29 | interval estimation |  8.3.4 (through Ex. 8.3.29), 9.1, 9.2.1 |  | [notes](lns/lec21.pdf)| [vid](https://youtu.be/v3Ke_yfuw2g) |  | 
 22|R 12-1 | pivoting | 7.2.3 | [SP11](sp/sp11.pdf) |[notes](lns/lec22.pdf)| [vid](https://youtu.be/_oFhbRPOt-o) | [QP12](qp/qp12.pdf) Due Dec 8 | 
-23|T 12-6 | p-values and bayesian inference  |  7.2.3 | --- | [notes](lns/lec23.pdf)| [vid]() | --- | 
+23|T 12-6 | p-values and bayesian inference  |  7.2.3 | --- | [notes](lns/lec23.pdf)| [vid](https://youtu.be/6i9L0NUjBAY) | --- | 
 
